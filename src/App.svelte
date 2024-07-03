@@ -1,5 +1,5 @@
 <script>
-  import cloud from "d3-cloud";
+  import cloud from "d3-cloud" ;
 
   let userInput = "";
   let wordData = [];
@@ -93,11 +93,6 @@
       max-width: 800px;
       margin: 0 auto;
       text-align: center;
-  }
-
-  h1 {
-      font-size: 2em;
-      margin-bottom: 20px;
   }
 
   label {
